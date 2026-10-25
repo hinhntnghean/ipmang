@@ -1,0 +1,15 @@
+{
+  "global_expire_date": "2026-11-25",
+  "machines": {
+    "A1-B2-C3-D4-E5-F6": {
+      "room_name": "Khu VIP - Server Chính",
+      "expire_date": "2026-12-25",
+      "default_line": "FPT"
+    },
+    "12-34-56-78-9A-BC": {
+      "room_name": "Khu Thường 01",
+      "expire_date": "2026-11-25",
+      "default_line": "Đường tổng"
+    }
+  }
+}
